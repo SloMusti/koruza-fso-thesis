@@ -1,2 +1,3 @@
-# koruza-fso-thesis
-PhD thesis in the making regarding http://koruza.net FSO thesis at UCL EE
+# KORUZA FSO thesis
+
+PhD thesis in the making, more details soon to come.
